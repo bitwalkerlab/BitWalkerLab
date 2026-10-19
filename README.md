@@ -1,16 +1,28 @@
-## Hi there 👋
+##BitWalkerLab👋 
 
-<!--
-**bitwalkerlab/BitWalkerLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Практическая лаборатория по системному администрированию,
+компьютерным сетям и кибербезопасности.
 
-Here are some ideas to get you started:
+## Направления
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows Server и Active Directory
+- Linux и серверное администрирование
+- Компьютерные сети
+- Виртуальные лаборатории
+- Основы информационной безопасности
+- Практика TryHackMe и Hack The Box
+
+## Цель
+
+Изучать технологии через реальные лабораторные работы,
+документировать результаты и делиться ими.
+
+## Проекты
+
+Пока в разработке.
+
+## Контакты
+
+- YouTube: BitWalkerLab
+- Telegram: @bitwalkerlab
+- Email: твой рабочий адрес
