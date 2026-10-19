@@ -25,4 +25,4 @@
 
 - YouTube: BitWalkerLab
 - Telegram: @bitwalkerlab
-- Email: твой рабочий адрес
+- Email: bitwalkerlab@gmail.com
